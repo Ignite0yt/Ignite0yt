@@ -1,4 +1,4 @@
-# 👋 Hey, I'm IGNITEYT ! 
+# 👋 Hey, I'm IGNITEyt ! 
 
 Welcome to my space! I am an independent Java developer specializing in creating optimized client-side utilities and performance enhancements for Minecraft. 
 
